@@ -6,4 +6,3 @@ Preview Link: https://dallasjvh.wixsite.com/portfolio/copy-of-sawyer-s-adventure
 
 Below is a link to the zipped game file. It was too large to upload on to Github if you would like to take a closer look at my code.
 Link: https://drive.google.com/file/d/1mxcrJmLoliTRrYspkSlotybsKPqT7uuC/view?usp=sharing
-
